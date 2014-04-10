@@ -32,8 +32,8 @@
             "instructor_name" : "Kamil Kisiel",
             "instructor_first_name" : "Kamil",
             "slot": "full-day",
-            "abstract": "<p>The Go Bootcamp will cover everything you need to get started writing network and web applications in Go. The first half of the day be spent learning language fundamentals and best practices for programming in Go. In the second half participants will use tools available in the Go standard library to build a networked chat application with a web interface.</p>",
-            "instructor_bio" : "<p>I have been programming in Go professionally for two years and am currently working as a freelance developer and consultant. Previously I worked for a biotech startup in ops and software engineering. I've previously given talks at the SGI User Group Conference, Polyglot, and several meetup groups.</p>",
+            "abstract": "<p>The Go Bootcamp will cover everything you need to get started writing network applications in Go. The first half of the day be spent learning language fundamentals and best practices for Go programming. In the second half participants will use tools available in the Go standard library to build a distributed networked chat.</p>\n\n<p>No prior Go experience is necessary, prior experience with other C-like languages is helpful but not required. Just bring your laptop and an open mind.</p>",
+            "instructor_bio" : "<p>Kamil has been programming in Go professionally for two years and is currently working as a freelance developer and consultant. Previously he worked for a biotech startup in ops and software engineering. He has previously given talks at the SGI User Group Conference, Polyglot, and several Vancouver meetup groups.</p>",
             "syllabus_url" : "https://docs.google.com/document/d/1lvf8TfvRXQR9pomgwtXM-1YBhVjCVjcc4MKhT8MOmXs/edit?usp=sharing"
         },
         {
